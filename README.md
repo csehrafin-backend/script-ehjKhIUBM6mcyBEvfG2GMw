@@ -6,6 +6,11 @@ Please dont not run this script if you arent joining "Goofy Ahh SMP".
 Go to this link: [Script](https://raw.githubusercontent.com/csehrafin-backend/script-ehjKhIUBM6mcyBEvfG2GMw/refs/heads/main/script.bat)
 ### Then Click "Save As"
 ![IMG](/img/saveasbrowser.png)
+### Then "Save in File Explorer"
+![IMG](/img/saveas.png)
+### Then "Double Click the file"
+![IMG](/img)
+### The Script will take 5-10 minutes.
 # Trust
 * This script is made by CsehRafin or Ishtiaque Ahmed Rafin, you may execute the script.
 * Check out my website: [https://csehrafin.github.io](https://csehrafin.github.io)

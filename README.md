@@ -2,6 +2,8 @@
 This script is for "Goofy Ahh SMP V2" which is hosted on legal entity "Falix Nodes" which is owned by "SIA Baltijas Pakalpojumi".
 ## Warning
 Please dont not run this script if you arent joining "Goofy Ahh SMP".
+# Download
+[Download The Script]()
 # Trust
 * This script is made by CsehRafin or Ishtiaque Ahmed Rafin, you may execute the script.
 * Check out my website: [https://csehrafin.github.io](https://csehrafin.github.io)

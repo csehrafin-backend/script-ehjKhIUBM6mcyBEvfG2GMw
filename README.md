@@ -7,7 +7,7 @@ Go to this link: [Script](https://raw.githubusercontent.com/csehrafin-backend/sc
 ### Then Click "Save As"
 ![IMG](/img/saveasbrowser.png)
 ### Then "Save in File Explorer"
-![IMG](/img/saveas.png)
+![IMG](/img/image.png)
 ### Then "Double Click the file"
 ### The Script will take 5-10 minutes.
 # Trust

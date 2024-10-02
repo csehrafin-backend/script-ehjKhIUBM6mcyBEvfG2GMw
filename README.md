@@ -9,7 +9,6 @@ Go to this link: [Script](https://raw.githubusercontent.com/csehrafin-backend/sc
 ### Then "Save in File Explorer"
 ![IMG](/img/saveas.png)
 ### Then "Double Click the file"
-![IMG](/img)
 ### The Script will take 5-10 minutes.
 # Trust
 * This script is made by CsehRafin or Ishtiaque Ahmed Rafin, you may execute the script.
